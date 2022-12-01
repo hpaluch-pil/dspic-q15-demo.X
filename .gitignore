@@ -4,6 +4,7 @@
 *.bak
 
 .generated_files/
+private/
 build/
 dist/
 debug/
